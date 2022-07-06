@@ -8,7 +8,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6281381926249'] 
 global.mods = ['6281381926249'] 
-global.prems = ['6281381926259'] 
+global.prems = ['6281381926249'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Hafizz ✰'
